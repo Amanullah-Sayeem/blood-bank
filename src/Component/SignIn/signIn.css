@@ -1,0 +1,17 @@
+.signInPage {
+  padding: 40px;
+}
+.signInPage .customInput {
+  height: 60px;
+  margin-bottom: 22px;
+}
+
+.signInPage .customButton {
+  height: 60px;
+  margin-bottom: 20px;
+}
+.signInPage .customLabel a {
+  color: #4a4a4ad6;
+  font-weight: 700;
+  text-decoration: none;
+}

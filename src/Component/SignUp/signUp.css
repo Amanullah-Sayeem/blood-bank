@@ -1,0 +1,173 @@
+.signUpPage {
+  padding: 40px;
+}
+.signUpPage .customInput {
+  height: 60px;
+  margin-bottom: 22px;
+}
+
+.signUpPage .customButton {
+  height: 60px;
+  margin-bottom: 20px;
+}
+.signUpPage .headerLarge {
+  color: black;
+  font-size: 35px;
+  font-weight: 700;
+  font-family: inherit;
+  line-height: 35px;
+}
+.signUpPage .customMargin span {
+  font-size: 28px;
+  font-weight: 300;
+  color: gray;
+}
+.signUpPage .customLabel a {
+  color: #4a4a4ad6;
+  font-weight: 700;
+  text-decoration: none;
+}
+.signUpPage .bloodCircle {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #ff0000ed;
+  border-radius: 25px;
+  color: #d00404;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.signUpPage .activeBlood {
+  color: white;
+  background-color: #d00404;
+}
+
+.signUpPage .weightCircle {
+  width: 70px;
+  height: 64px;
+  border-radius: 45px;
+  overflow: hidden;
+  background: #a6dbd1;
+}
+.signUpPage .weightContainer {
+  background: #f6f7f9;
+  width: 110px;
+  height: 140px;
+  position: relative;
+  box-shadow: 0px 0px 5px 0px #a9a9a98a;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+  cursor: pointer;
+}
+.signUpPage .weightIcon {
+  position: absolute;
+  top: -9px;
+  left: -4px;
+  color: #de0808;
+  font-size: 20px;
+}
+
+.signUpPage .activeWeight {
+  background: #cf070733;
+}
+
+.signUpPage .birthDay .customInput {
+  width: 40px;
+  height: 10px;
+  text-align: center;
+  border: none;
+  background: white;
+  font-weight: 500;
+  color: #000000a8;
+  visibility: hidden;
+  outline: none;
+}
+.signUpPage .birthDay .col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signUpPage .birthDay div {
+  position: relative;
+  margin: 4px;
+}
+
+.signUpPage .birthDay label {
+  position: absolute;
+  z-index: 1;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  justify-content: center;
+  padding-top: 16px;
+  cursor: pointer;
+  color: #0000005e;
+  font-family: fangsong;
+  font-weight: 600;
+  font-size: 24px;
+}
+.signUpPage .date,
+.signUpPage .year,
+.signUpPage .month {
+  color: #000000ba;
+  font-family: revert;
+  text-align: center;
+  font-size: 14px;
+}
+
+.signUpPage .itemBox {
+  width: 40px;
+  height: 27px;
+  text-align: center;
+  border: none;
+  /* background: #da7676; */
+  font-weight: 600;
+  color: #000000a8;
+  cursor: pointer;
+  font-size: 20px;
+}
+.signUpPage .activeDate {
+  color: black;
+  font-weight: 800;
+}
+
+.signUpPage .uploadCircle {
+  background: #f6f7f9;
+  width: 180px;
+  height: 180px;
+  position: relative;
+  box-shadow: 0px 0px 5px 0px #a9a9a98a;
+  border-radius: 96px;
+  display: flex;
+  justify-content: center;
+  /* padding-top: 15px; */
+  align-items: center;
+  color: #da0606;
+  font-size: 26p;
+}
+
+.signUpPage .uploadStyle {
+  font-size: 15px;
+  color: #000000bf;
+  font-family: system-ui;
+  font-weight: 500;
+  position: absolute;
+  cursor: pointer;
+  width: 100%;
+  left: 0;
+}
+
+.signUpPage .uploadCircle input {
+  visibility: hidden;
+}
+
+.signUpPage .uploadStyle svg {
+  color: rgb(224, 15, 15);
+  font-size: 30px;
+}

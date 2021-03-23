@@ -1,0 +1,13 @@
+.welcome {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  text-align: center;
+  transform: translateX(-50%);
+  width: 200px;
+}
+
+.welcome .buttonContainer {
+  height: 50px;
+  margin-top: 80px;
+}

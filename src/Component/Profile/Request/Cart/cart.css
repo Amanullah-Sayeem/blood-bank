@@ -1,0 +1,50 @@
+.cartEdit {
+  border-radius: 9px;
+  padding: 12px 0px 5px 0px;
+  box-shadow: 0px 0px 3px 0px #e0e0e0;
+  background-color: white;
+  margin-bottom: 10px;
+  border: none;
+}
+.cartEdit .hospital {
+  color: rgb(0 0 0 / 80%);
+  font-family: unset;
+  font-weight: 500;
+  font-size: 13px;
+  margin-top: -24px;
+}
+.cartEdit .hospital span {
+  color: #000000b3;
+  font-family: revert;
+  font-weight: 500;
+  font-size: 8px;
+}
+
+.cartEdit .subHead {
+  font-size: 8px;
+  font-weight: 400;
+  font-family: sans-serif;
+  color: #000000b8;
+}
+.cartEdit svg {
+  margin-right: 2px;
+}
+.cartEdit .customBtn button {
+  background: brown;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  padding: 0px 0px;
+  margin-right: 3px;
+  font-family: auto;
+  width: 52px;
+  font-size: 10px;
+  height: 19px;
+}
+.cartEdit .customBtn span {
+  color: brown;
+}
+.cartEdit .customBorder {
+  border-bottom: 1px solid rgb(228, 227, 227);
+  margin-top: -7px;
+}

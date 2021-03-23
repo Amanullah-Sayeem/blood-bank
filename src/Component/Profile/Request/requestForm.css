@@ -1,0 +1,17 @@
+.requestContainer {
+  background-color: white;
+  border-radius: 15px;
+  padding: 20px 5px;
+}
+
+.requestContainer .schedule {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #cf2c2c;
+}
+.requestContainer button {
+  margin-top: 23px;
+  width: 108px;
+  height: 32px;
+  font-size: 13px;
+}

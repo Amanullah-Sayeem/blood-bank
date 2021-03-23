@@ -1,0 +1,59 @@
+.body {
+  background-color: #f6f7f9;
+  padding-bottom: 30px;
+}
+
+/* .listItem {
+  width: 60px;
+} */
+.imageBox {
+  width: 45px;
+  height: 50px;
+}
+.customBadge {
+  width: 22px;
+  height: 22px;
+  background: #c71b1b;
+  border-radius: 13px;
+  color: white;
+  text-align: center;
+  font-size: 14px;
+  font-family: monospace;
+  right: -2px;
+  top: -3px;
+}
+
+.headerLarge {
+  color: black;
+  font-size: 22px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.headerMedium {
+  color: white;
+  color: #4a4a4ad1;
+  font-weight: 500;
+  font-family: system-ui;
+  font-size: 11px;
+}
+.headerSmall {
+  color: #000000c2;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: system-ui;
+}
+
+.headerExtra {
+  font-size: 10px;
+  font-weight: 100;
+  font-family: sans-serif;
+  color: #c0c0c1;
+  margin-top: -4px;
+}
+.statisticGraph {
+  background: white;
+  border-radius: 10px;
+
+  padding: 5px 10px 7px 5px;
+  box-shadow: 2px 2px 2px 2px #e9eaec;
+}

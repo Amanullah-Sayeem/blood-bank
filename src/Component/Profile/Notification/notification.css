@@ -1,0 +1,61 @@
+.notifyCart .notifyLogo {
+  height: 28px;
+  border-radius: 26px;
+  width: 120px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: ui-serif;
+  padding-top: 3px;
+  box-shadow: 0px 0px 3px 1px #8080804d;
+  color: #ea0909;
+  font-family: inherit;
+  font-weight: 700;
+}
+.notifyCart {
+  background: white;
+  padding: 16px 8px 10px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 3px 1px #8080804d;
+}
+
+.notifyCart .text span:nth-child(1) {
+  font-weight: 700;
+  font-size: 12px;
+  font-family: system-ui;
+  color: #000000e0;
+}
+
+.notifyCart .text2 span:nth-child(2) {
+  font-weight: 700;
+  font-size: 12px;
+  font-family: system-ui;
+  color: #000000e0;
+}
+
+.notifyCart .text span:nth-child(2),
+.notifyCart .time {
+  color: #0000008c;
+  font-family: revert;
+  font-size: 12px;
+}
+.notifyCart .text2 span:nth-child(1) {
+  color: #0000008c;
+  font-family: revert;
+  font-size: 12px;
+}
+
+.notifyCart .text,
+.notifyCart .text2 {
+  line-height: 12px;
+}
+
+.historyStyle {
+  color: black;
+  font-size: 22px;
+  font-weight: 700;
+  font-family: inherit;
+  font-size: 15px;
+  margin-top: -37px;
+}
